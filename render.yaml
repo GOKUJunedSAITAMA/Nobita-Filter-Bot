@@ -1,5 +1,5 @@
 # A Docker web service
-  - type: web
+    type: web
     name: Nobita-Filter-Bot
     env: python
     startCommand: python3 bot.py
